@@ -12,3 +12,4 @@ sudo apt install nfs-common
  Al igual ambas instancias son conectadas con la base de datos desde la configuración del archivo .yml.
 
 ![image](https://user-images.githubusercontent.com/53051383/168937684-87b3bb9c-876e-453b-b69a-395a31681e9d.png)
+![image](https://user-images.githubusercontent.com/53051383/168938390-c39e6043-fbdf-4fc0-835d-be1664a124ae.png)

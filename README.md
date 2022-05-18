@@ -13,3 +13,6 @@ sudo apt install nfs-common
 
 ![image](https://user-images.githubusercontent.com/53051383/168937684-87b3bb9c-876e-453b-b69a-395a31681e9d.png)
 ![image](https://user-images.githubusercontent.com/53051383/168938390-c39e6043-fbdf-4fc0-835d-be1664a124ae.png)
+
+## AWS 
+![image](https://user-images.githubusercontent.com/53051383/168938525-fd0d43b3-e637-4e91-b210-7c810991dc6e.png)
